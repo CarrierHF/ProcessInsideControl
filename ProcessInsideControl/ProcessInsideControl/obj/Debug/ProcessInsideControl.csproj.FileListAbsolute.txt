@@ -1,0 +1,5 @@
+T:\C# Projects\Help\ProcessInsideControl\ProcessInsideControl\ProcessInsideControl\bin\Debug\ProcessInsideControl.dll
+T:\C# Projects\Help\ProcessInsideControl\ProcessInsideControl\ProcessInsideControl\bin\Debug\ProcessInsideControl.pdb
+T:\C# Projects\Help\ProcessInsideControl\ProcessInsideControl\ProcessInsideControl\obj\Debug\ProcessInsideControl.csprojResolveAssemblyReference.cache
+T:\C# Projects\Help\ProcessInsideControl\ProcessInsideControl\ProcessInsideControl\obj\Debug\ProcessInsideControl.dll
+T:\C# Projects\Help\ProcessInsideControl\ProcessInsideControl\ProcessInsideControl\obj\Debug\ProcessInsideControl.pdb
